@@ -13,7 +13,6 @@ Clone this repository to your local machine:
 git clone https://github.com/amitsingh2904/imagefilter.git
 Navigate to the project directory:
 cd imagefilter
-
 Open index.html in your browser to launch the application.
 
 
@@ -26,6 +25,7 @@ Future Enhancements
 Add sliders for fine-tuned filter control.
 Improve performance for large image files.
 Include more advanced filters and effects.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
